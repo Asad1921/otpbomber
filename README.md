@@ -33,7 +33,7 @@ Follow these steps to download and set up the tool:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/asharbinkhalil/otpbomer.git
+   git clone https://github.com/Asad1921/otpbomber.git
    cd otpbomber
    ```
 
